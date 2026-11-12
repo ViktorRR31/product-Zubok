@@ -1,4 +1,4 @@
-# Backlog проєкту Gartic Phone
+# Backlog проєкту Appellation
 
 ## Завдання
 
